@@ -108,5 +108,6 @@ If you have questions, or suggestions, or want to discuss this project further, 
 - **GitHub:** [GitHub Profile](https://github.com/Mujtaba-12390/)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-mujtaba-raza/)
 - **Medium Articles:** [Medium Profile](https://medium.com/@mujtabaraza09321)
+- **Discussion** [Discussion](https://github.com/Mujtaba-12390/EPL-Data-Tales/discussions/1)
 
 I look forward to connecting with you and exploring the fascinating world of EPL data together.
