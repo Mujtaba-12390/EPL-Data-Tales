@@ -4,9 +4,13 @@
 
 ## Introduction
 
-Welcome to the Manchester United EPL Data Story repository, a comprehensive exploration of the legendary football club's history in the English Premier League (EPL). Manchester United, often referred to as the Red Devils, is not just a football club; it's a symbol of excellence and a rich tapestry of stories, and this repository aims to uncover and celebrate its journey in the EPL.
+Welcome to the EPL Data Story repository, a comprehensive exploration of the legendary football club's history in the English Premier League (EPL). Manchester United, often referred to as the Red Devils, is not just a football club; it's a symbol of excellence and a rich tapestry of stories, and this repository aims to uncover and celebrate its journey in the EPL. In this EPL data, we will create a storytelling of Manchester United.
 
-Manchester United's history in the EPL is a rollercoaster ride of triumphs, heartaches, iconic players, legendary managers, and unforgettable moments. Whether you're a passionate fan, a data enthusiast, or simply someone curious about the captivating world of football, this repository has something for you.
+Manchester United's history in the EPL is a rollercoaster ride of triumphs, heartaches, iconic goals, legendary points, and unforgettable moments. Whether you're a passionate fan, a data enthusiast, or simply someone curious about the captivating world of football, this repository has something for you.
+
+## What is Data Storytelling?
+
+Data storytelling is a method of conveying insights and findings from data analysis in a compelling and easily understandable narrative form. It combines data analysis with elements of storytelling to make data-driven insights more accessible and impactful to a broader audience, including non-technical individuals.
 
 ## Data Analysis
 
