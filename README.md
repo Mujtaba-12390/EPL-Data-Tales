@@ -62,7 +62,7 @@ Data can often be complex, but our interactive visualizations bring it to life. 
 
 **1. Clone the Repository:**
 ```
-git clone https://github.com/Mujtaba-12390/covid19-usa-average-deaths-storytelling.git
+git clone https://github.com/Mujtaba-12390/EPL-Data-Tales/
 ```
 **2. Install Dependencies:**
 Ensure you have Jupyter Notebook installed. If not, you can install it using:
@@ -81,14 +81,15 @@ pip install numpy
 pip install matplotlib
 pip install seaborn
 ```
+**5. Install the data set:** You need to install the dataset of EPL by opening the [`EPL_Dataset`](https://github.com/Mujtaba-12390/EPL-Data-Tales/blob/main/EPL_Set.csv) file.
 
- **5. Explore the Analysis:** Dive into the analysis by opening the `` file in your preferred Python environment.
+ **5. Explore the Analysis:** Dive into the analysis by opening the `Manchester United EPL Data Story & Winning Steak.ipyub` file in your preferred Python environment.
 
 ## License
 
 This project is open-source and available under the [MIT License](https://github.com/Mujtaba-12390/EPL-Data-Tales/blob/main/LICENSE). Feel free to use, modify, and share our work, while respecting the terms of the license.
 
-We look forward to your exploration and contributions. Together, let's uncover the stories hidden within the COVID-19 data!
+We look forward to your exploration and contributions. Together, let's uncover the stories hidden within the EPL data!
 
 [Explore the Data Storytelling](https://github.com/Mujtaba-12390/EPL-Data-Tales/)
 
