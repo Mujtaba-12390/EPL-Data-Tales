@@ -56,7 +56,7 @@ Data can often be complex, but our interactive visualizations bring it to life. 
   
 - **Community Engagement:** I collaborate and welcome contributions from data enthusiasts, football historians, and storytellers. Feel free to join us in exploring and sharing the incredible stories that emerge from the EPL dataset.
   
-- **Winning Steaks:** You can also go through the winning steak visualization of Manchester United.[Winning Steak 2010-11]()
+- **Winning Steaks:** You can also go through the winning steak visualization of Manchester United. [`Winning Steak 2010-11`](https://github.com/Mujtaba-12390/EPL-Data-Tales/blob/main/Winning%20Steak%202010-11.jpg)
 
 
 ## How to Get Started
